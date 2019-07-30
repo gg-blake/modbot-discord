@@ -338,6 +338,6 @@ async def on_ready():
 
 while True:
     try:
-        client.run('NTA2NDUwNDQ3ODcyMjk0OTE0.D140VQ.AQpjT7zTFpJzvUmYt3I0mYgFOOc')
+        client.run('INSERT TOKEN HERE')
     except:
         pass
